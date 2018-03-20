@@ -1,6 +1,6 @@
 {
   "name": "debounce-redux-dispatch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Debounce Redux Dispatch",
   "main": "build/index.js",
   "scripts": {
