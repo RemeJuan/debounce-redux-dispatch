@@ -1,0 +1,31 @@
+{
+	"title": "Debounce Redux Dispatch",
+	"name": "debounce-redux-dispatch",
+	"homepage": "https://www.remelehane.me",
+	"description": "Debounce Redux Dispatch",
+	"license": "MIT",
+	"browsers": true,
+	"author": "2018+ Reme Le Hane (reme.lehane@gmail.com) (https://www.remelehane.me)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RemeJuan/debounce-redux-dispatch.git"
+	},
+	"bugs": {
+		"url": "https://github.com/RemeJuan/debounce-redux-dispatch/issues"
+	},
+	"badges": {
+		"list": [
+			"nodeico",
+      "---",
+      "travisci",
+			"npmversion",
+			"npmdownloads",
+			"githubfollow",
+			"githubstar",
+			"daviddm",
+		],
+		"config": {
+			"githubUsername": "RemeJuan"
+		}
+	}
+}
