@@ -46,7 +46,7 @@ import asyncDebounced from 'debounce-redux-dispatch';
 
 ...
 
-const mapDispatchToProps - dispatch -=> ({
+const mapDispatchToProps = dispatch => ({
   triggerSearch(query) {
     dispatch(asyncDebounced(search, 1000, query));
   }
